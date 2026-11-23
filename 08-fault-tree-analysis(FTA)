@@ -1,0 +1,87 @@
+# Fault Tree Analysis (FTA)
+
+## 1. Overview
+
+Fault Tree Analysis (FTA) is a systematic analytical technique used to investigate how combinations of potential failures or events can lead to an undesired system outcome.
+
+It uses a top-down approach, starting with an undesired event and breaking it down into contributing events and potential causes.
+
+## 2. Product Context
+
+This analysis considers the hypothetical Smart Wi-Fi Video Doorbell scenario in which approximately 15% of units are reported to restart or lose Wi-Fi connectivity after 20–30 minutes of operation.
+
+The scenario is illustrative and is not based on actual product testing or verified defect data.
+
+## 3. Purpose of Fault Tree Analysis
+
+The purpose of FTA in this scenario is to:
+
+- Identify potential contributing events associated with the undesired outcome.
+- Break a system-level failure into smaller events.
+- Organise potential causes logically.
+- Understand how individual or combined events may contribute to product failure.
+- Support systematic troubleshooting and investigation.
+
+## 4. Top-Level Failure Event
+
+**Top Event:** Smart Wi-Fi Video Doorbell unexpectedly restarts or loses Wi-Fi connectivity during operation.
+
+This top-level event is hypothetical and has not been verified through physical testing.
+
+## 5. Potential Contributing Events
+
+Potential contributing events could include:
+
+- Power supply instability.
+- Excessive operating temperature.
+- Firmware or software instability.
+- Wi-Fi connectivity interruption.
+- Hardware component malfunction.
+
+These are potential contributing events, not confirmed causes.
+
+## 6. Fault Tree Structure
+
+The fault tree investigation would begin with the top-level failure event and examine possible contributing events.
+
+A simplified conceptual structure could consider:
+
+- Power-related issues.
+- Thermal-related issues.
+- Firmware-related issues.
+- Connectivity-related issues.
+- Hardware-related issues.
+
+The relationship between these events would need to be established through system understanding and investigation rather than assumption.
+
+## 7. Applying Fault Tree Analysis
+
+A structured FTA investigation would involve:
+
+1. Defining the top-level undesired event.
+2. Identifying potential immediate causes.
+3. Breaking down each cause into more detailed contributing events.
+4. Organising relationships between events using logical gates where appropriate.
+5. Reviewing the fault tree for completeness.
+6. Using the identified paths to guide further investigation and testing.
+7. Updating the analysis when additional evidence becomes available.
+
+## 8. Quality Management Relevance
+
+FTA supports systematic troubleshooting and failure investigation by helping engineers understand how multiple potential events may contribute to a system-level failure.
+
+It can be useful in identifying investigation priorities, understanding failure relationships and supporting reliability and quality improvement activities.
+
+## 9. Limitations
+
+This case study is illustrative.
+
+- No physical product was tested.
+- The top-level failure event is hypothetical.
+- No contributing causes have been verified.
+- No failure probabilities have been calculated.
+- No actual fault tree has been validated against product data.
+
+## 10. Reference Concept
+
+Fault Tree Analysis (FTA) – a top-down analytical approach for examining how potential events or combinations of events may lead to an undesired system-level outcome.
