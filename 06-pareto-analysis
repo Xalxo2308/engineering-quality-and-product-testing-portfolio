@@ -1,0 +1,81 @@
+# Pareto Analysis – Smart Wi-Fi Video Doorbell
+
+## 1. Overview
+
+Pareto Analysis is a quality-analysis technique used to prioritise problems or categories based on their contribution to the observed frequency or impact of issues.
+
+The technique is commonly associated with the Pareto principle, often expressed as the observation that a relatively small number of categories may account for a large proportion of problems.
+
+In this hypothetical Smart Wi-Fi Video Doorbell scenario, Pareto Analysis could be used to prioritise recurring product issues once reliable defect or observation data is available.
+
+## 2. Problem Context
+
+The hypothetical product scenario involves Smart Wi-Fi Video Doorbell units experiencing unexpected restarts or Wi-Fi disconnections after approximately 20–30 minutes of operation.
+
+Potential issue categories could include:
+
+- Power-related issues.
+- Wi-Fi connectivity issues.
+- Thermal-related issues.
+- Firmware-related issues.
+- Hardware or assembly-related issues.
+
+These categories are examples for classification and are not confirmed product defects.
+
+## 3. Purpose of Pareto Analysis
+
+Pareto Analysis could help the investigation team:
+
+- Categorise recorded product issues.
+- Identify the most frequently occurring issue categories.
+- Prioritise further investigation.
+- Support decisions based on recorded data rather than assumptions.
+- Allocate investigation resources towards higher-frequency problem categories.
+
+## 4. Proposed Application
+
+To apply Pareto Analysis, actual and consistently classified observations would first need to be collected.
+
+The process would involve:
+
+1. Collecting defect or failure records.
+2. Categorising the recorded issues.
+3. Counting occurrences within each category.
+4. Arranging categories in descending order of frequency.
+5. Calculating cumulative frequency and percentage.
+6. Reviewing which categories contribute most to the recorded observations.
+7. Prioritising further investigation based on the results.
+
+## 5. Data Requirements
+
+A meaningful Pareto Analysis requires reliable data.
+
+Potential data fields could include:
+
+- Defect or observation ID.
+- Product or unit identifier, where appropriate.
+- Issue category.
+- Description of the observed behaviour.
+- Date of observation.
+- Test or operating conditions.
+- Recorded outcome.
+
+No frequency counts or Pareto chart are included because no actual defect dataset has been collected for this hypothetical product scenario.
+
+## 6. Relevance to Quality Management
+
+Pareto Analysis provides a structured approach to prioritising quality problems using recorded data.
+
+Rather than treating every issue as equally significant, it helps identify categories that may warrant greater attention based on their observed contribution to the total.
+
+The analysis can support further investigation and quality-improvement decision-making.
+
+## 7. Limitations
+
+This document describes a proposed application of Pareto Analysis to a hypothetical product scenario.
+
+No actual product failures, defect counts, frequency data, cumulative percentages or analysis results have been generated or verified.
+
+## 8. Reference Concept
+
+Pareto Analysis: a quality-analysis technique used to rank problem categories according to their frequency or contribution and support prioritisation of improvement activities.
