@@ -1,0 +1,57 @@
+# Product Test Matrix – Smart Wi-Fi Video Doorbell
+
+## Overview
+
+This portfolio artifact demonstrates how a structured test matrix can be used to plan, document, and organise product testing for a hypothetical Smart Wi-Fi Video Doorbell.
+
+The test matrix includes test IDs, test objectives, priority levels, preconditions, test procedures, expected results, test status, and defect references.
+
+## Test Areas
+
+- Power and startup behaviour
+- Power interruption and recovery
+- Wi-Fi connectivity and reconnection
+- Video streaming
+- Continuous operation
+- Thermal observations
+- Physical inspection
+- Connector inspection
+- PCB visual inspection
+- Power supply and voltage regulator checks
+- Notification and event functionality
+- Regression testing
+
+## Test Documentation
+
+Each test case is structured to support traceability and consistent test documentation.
+
+The matrix provides fields for:
+
+- Test ID
+- Test area
+- Test objective
+- Priority
+- Preconditions and setup
+- Test procedure
+- Expected result
+- Test status
+- Defect ID
+- Notes
+
+## Testing Approach
+
+The proposed testing approach involves:
+
+1. Reviewing the product requirements and specifications.
+2. Identifying the functionality and potential failure points.
+3. Defining test conditions and expected results.
+4. Performing tests under controlled and safe conditions.
+5. Recording actual observations and evidence.
+6. Reporting defects where test results do not meet acceptance criteria.
+7. Retesting after corrective actions and documenting outcomes.
+
+## Portfolio Disclaimer
+
+This is an illustrative test-planning exercise developed for portfolio and learning purposes. The test cases are proposed scenarios and have not been executed on a physical Smart Wi-Fi Video Doorbell.
+
+The matrix demonstrates structured test planning, documentation, and a systematic approach to product quality assessment.
