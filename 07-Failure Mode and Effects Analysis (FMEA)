@@ -1,0 +1,84 @@
+# Failure Mode and Effects Analysis (FMEA)
+
+## 1. Overview
+
+Failure Mode and Effects Analysis (FMEA) is a systematic quality analysis technique used to identify potential failure modes in a product, process or system, assess their possible effects, and prioritise actions to reduce risk.
+
+FMEA helps engineers anticipate potential problems before they lead to product failures, customer dissatisfaction or safety concerns.
+
+## 2. Product Context
+
+This analysis uses a hypothetical Smart Wi-Fi Video Doorbell scenario in which approximately 15% of units are reported to restart or lose Wi-Fi connectivity after 20–30 minutes of operation.
+
+This scenario is illustrative and is not based on actual product testing or confirmed defect data.
+
+## 3. Purpose of FMEA
+
+The purpose of applying FMEA to this scenario is to:
+
+- Identify potential failure modes.
+- Understand the possible effects of failures on product performance and customer experience.
+- Consider potential causes of failures.
+- Identify possible preventive or corrective actions.
+- Prioritise areas requiring further investigation.
+
+## 4. FMEA Approach
+
+The analysis would consider the following elements:
+
+| FMEA Element | Description |
+|---|---|
+| Failure Mode | How a component, subsystem or product could potentially fail. |
+| Failure Effect | The potential consequence of the failure on product operation or the customer. |
+| Potential Cause | A possible reason the failure may occur. |
+| Severity | The seriousness of the potential effect. |
+| Occurrence | An estimate of how frequently the failure may occur. |
+| Detection | How likely the failure is to be detected before it affects the customer. |
+| Recommended Action | A proposed action to investigate, prevent or reduce the potential failure. |
+
+## 5. Potential Failure Areas
+
+Potential failure areas for the hypothetical doorbell scenario may include:
+
+- Power supply instability.
+- Excessive temperature during operation.
+- Wi-Fi connectivity interruption.
+- Firmware-related instability.
+- Hardware component malfunction.
+- Assembly-related issues.
+
+These are potential areas for investigation, not confirmed causes.
+
+## 6. Applying FMEA
+
+A structured FMEA investigation would involve:
+
+1. Identifying the relevant product components and subsystems.
+2. Listing potential failure modes for each subsystem.
+3. Describing the possible effects of each failure.
+4. Identifying potential causes.
+5. Assessing severity, occurrence and detection using an established rating scale.
+6. Prioritising risks for further investigation.
+7. Identifying proposed actions.
+8. Reviewing the risk assessment after actions and additional evidence become available.
+
+Risk ratings would require supporting evidence or clearly defined assumptions. No actual ratings have been assigned in this case study.
+
+## 7. Quality Management Relevance
+
+FMEA supports proactive quality management by helping engineers identify and prioritise potential risks before they result in product failures.
+
+In product testing and quality analysis, FMEA can help guide inspection, testing priorities, troubleshooting and improvement activities.
+
+## 8. Limitations
+
+This case study is illustrative.
+
+- No physical doorbell was tested.
+- No failure modes have been experimentally confirmed.
+- No severity, occurrence or detection scores have been assigned.
+- No actual risk reduction actions have been implemented or verified.
+
+## 9. Reference Concept
+
+Failure Mode and Effects Analysis (FMEA) – systematic identification and assessment of potential failures, their effects and possible causes to support risk prioritisation and quality improvement.
