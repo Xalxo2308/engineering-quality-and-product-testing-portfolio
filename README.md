@@ -14,7 +14,23 @@ The central illustrative case study is a Smart Wi-Fi Video Doorbell experiencing
 
 The case study is used to demonstrate how engineering quality tools can structure analysis, identify potential contributing factors, prioritise investigation and document engineering considerations.
 
----
+|--------------------------------------------------------------------------------------------------------|
+|                                 Smart Wi-Fi Video Doorbell                                             |
+|                     Hypothetical issue: restarting or Wi-Fi disconnection                              |
+|--------------------------------------------------------------------------------------------------------|
+                                              ↓
+|--------------------------------------------------------------------------------------------------------|
+|         Quality Planning                    |                        Issue Analysis                    |
+|     Stakeholders · Kano · QFD               |                Defect documentation · Inspection         |
+|-------------------------------------------- + ---------------------------------------------------------|                             |                                             |                                                          |
+|             Cause Analysis                  |                       Risk & Prioritisation              |
+|             Fishbone · FTA                  |                     FMEA · Pareto methodology            |
+|--------------------------------------------------------------------------------------------------------|   
+                                              ↓
+|--------------------------------------------------------------------------------------------------------|
+|                            Structured Engineering Investigation                                        |
+|            Organise possible causes, identify priorities and guide further investigation               |
+|--------------------------------------------------------------------------------------------------------|
 
 ## Projects and Documentation
 
