@@ -1,0 +1,89 @@
+# Cause-and-Effect Analysis – Smart Wi-Fi Video Doorbell
+
+## 1. Problem Statement
+
+A hypothetical Smart Wi-Fi Video Doorbell scenario is considered in which approximately 15% of units experience unexpected restarts or Wi-Fi disconnections after approximately 20–30 minutes of operation.
+
+The Cause-and-Effect Diagram (Fishbone or Ishikawa Diagram) is used to organise potential causes of the problem into categories to support a systematic investigation.
+
+The reported behaviour is treated as a hypothetical problem scenario for analysis, not as a verified product defect.
+
+## 2. Objective
+
+The objective of this analysis is to:
+
+- Identify potential contributing factors to the reported behaviour.
+- Organise possible causes into structured categories.
+- Avoid prematurely assuming a single root cause.
+- Provide a framework for further investigation.
+
+## 3. Cause-and-Effect Analysis
+
+The problem is considered across the following categories:
+
+### Hardware
+
+- Possible defective electronic components.
+- Component degradation or malfunction.
+- PCB-related issues.
+- Component interaction or circuit instability.
+
+### Power
+
+- Unstable supply voltage.
+- Insufficient power under operating load.
+- Voltage fluctuations.
+- Power supply or regulator-related issues.
+
+### Thermal
+
+- Excessive temperature during continuous operation.
+- Heat accumulation within the enclosure.
+- Temperature-related component instability.
+
+### Firmware and Software
+
+- Software errors.
+- Memory-related issues.
+- Unexpected software behaviour.
+- Firmware-related instability.
+
+### Connectivity
+
+- Wi-Fi signal instability.
+- Network interference.
+- Router or network compatibility.
+- Connection recovery behaviour.
+
+### Assembly and Manufacturing
+
+- Poor solder joints.
+- Loose connections.
+- Assembly-related defects.
+- Inconsistent manufacturing quality.
+
+## 4. Investigation Approach
+
+The potential causes identified through the Cause-and-Effect analysis would require further investigation.
+
+An investigation could involve reviewing the operating conditions, examining the device's power behaviour, observing temperature, assessing network connectivity, and inspecting accessible hardware where appropriate.
+
+The potential causes listed in this analysis are not confirmed root causes.
+
+## 5. Quality Management Relevance
+
+The Cause-and-Effect Diagram provides a structured method for exploring possible contributing factors to a problem.
+
+In this scenario, it helps organise the investigation across hardware, power, thermal, firmware, connectivity and assembly-related areas rather than relying on an initial assumption.
+
+## 6. Limitations
+
+This analysis is based on a hypothetical Smart Wi-Fi Video Doorbell scenario.
+
+No physical product testing, measurements, root-cause confirmation or defect verification has been conducted as part of this document.
+
+The identified causes are potential investigation areas only.
+
+## 7. Reference Concept
+
+Cause-and-Effect Diagram (Ishikawa Diagram / Fishbone Diagram): a quality-analysis tool used to organise potential causes associated with a defined problem.
