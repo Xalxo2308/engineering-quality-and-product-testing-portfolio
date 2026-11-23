@@ -117,7 +117,7 @@ Analysis and documentation are presented as illustrative applications of enginee
 
 **Swati Clarice Xalxo**
 
-Master of Engineering – Telecommunications  
+Master of Engineering – Telecommunications & Electronics 
 Master of Engineering Management  
 University of Technology Sydney (UTS)
 
